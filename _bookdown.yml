@@ -1,7 +1,7 @@
-book_filename: "bookdown-minimal-master"
+book_filename: "bookdown"
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Глава "
 #rmd_files: [
 #  "index.Rmd",
 #  "setup.Rmd",

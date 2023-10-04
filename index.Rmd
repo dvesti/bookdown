@@ -13,10 +13,10 @@ description: |
   The HTML output format for this example is bookdown::gitbook,
   set in the _output.yml file.
 link-citations: yes
-github-repo: https://github.com/dvesti/bookdown-demo-dvesti
-mainfont: Scotch Modern #ScotchModern #Georgia
+github-repo: https://github.com/dvesti/bookdown
+mainfont: Georgia
 monofont: "Courier New"
-monofontoptions: "Scale=0.7" #"Scale=0.7"
+monofontoptions: "Scale=0.7"
 fontsize: 12pt
 papersize: a4
 geometry:
