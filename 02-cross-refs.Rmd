@@ -2,7 +2,7 @@
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 
-## 1970. Продолжение
+## 1970. Продолжение {#1970-2}
 
 There are two steps to cross-reference any heading:
 
@@ -29,7 +29,7 @@ Figures and tables *with captions* can also be cross-referenced from elsewhere i
 
 1974
 
-# Молодость
+# Молодость {#molodost}
 
 123
 
@@ -49,6 +49,6 @@ Figures and tables *with captions* can also be cross-referenced from elsewhere i
 
 1978
 
-## 1979. Начало
+## 1979. Начало {#1979-1}
 
-1979
+1979-1

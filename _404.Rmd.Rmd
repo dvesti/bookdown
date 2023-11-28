@@ -1,4 +1,4 @@
 Мы здесь:
 
-https://dvesti.github.io/bookdown-demo-dvesti 
+https://dvesti.github.io/bookdown
 

@@ -4,13 +4,9 @@ You can add parts to organize one or more book chapters together. Parts can be i
 
 Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`)
 
-Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
+## 1979. Продолжение {#1979-2}
 
-Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
-
-## 1979. Продолжение
-
-1979
+1979-2
 
 ## 1980
 
@@ -56,6 +52,6 @@ Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff
 
 1990
 
-## 1991. Начало
+## 1991. Начало {#1991-1}
 
-1991
+1991-1

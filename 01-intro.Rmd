@@ -8,7 +8,7 @@ Lorem Ipsum - это текст-"рыба", часто используемый 
 
 All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
 
-## 1960. продолжение
+## 1960. Продолжение {#1960-2}
 
 второй уровень
 
@@ -54,6 +54,6 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 
 1969
 
-## 1970. Начало
+## 1970. Начало {#1970-1}
 
 1970-1

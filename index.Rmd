@@ -44,11 +44,11 @@ _**За день — 110 км. Ок — 2169 км**_
 Lorem Ipsum - это текст-“рыба”, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной “рыбой” для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.  
 
 
-# Истоки {#about}
+# Истоки {#istoki}
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
-## 1955 год
+## 1955
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 
@@ -77,6 +77,6 @@ As you work, you may start a local server to live preview this HTML book. This p
 
 1959
 
-## 1960. Начало
+## 1960. Начало {#1960-1}
 
 1960
