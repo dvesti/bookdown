@@ -44,7 +44,7 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 
 1967
 
-# Юность
+# Юность {#junost}
 
 ## 1968
 
