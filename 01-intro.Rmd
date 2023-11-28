@@ -1,4 +1,4 @@
-# Привет, Bookdown {#intro}  
+# Детство {#intro}  
 
 Это первый уровень
 
@@ -8,7 +8,7 @@ Lorem Ipsum - это текст-"рыба", часто используемый 
 
 All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
 
-## Секции
+## 1960. продолжение
 
 второй уровень
 
@@ -16,6 +16,44 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 
 ### Не пронумерованный {-} 
 
-Без номера 
+## 1961
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+1961
+
+## 1962
+
+1962
+
+## 1963
+
+1963
+
+## 1964
+
+1964
+
+## 1965
+
+1965
+
+## 1966
+
+1966
+
+## 1967
+
+1967
+
+# Юность
+
+## 1968
+
+1968
+
+## 1969
+
+1969
+
+## 1970. Начало
+
+1970-1

@@ -1,30 +1,45 @@
-# Блоки  {#blocks}  
+# Зрелость. Новое Тысячелетие {#blocks}  
 
-## Equations
+## 2000. Продолжение
 
-Here is an equation.
+2000
 
-\begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  (\#eq:binom)
-\end{equation} 
+## 2001
 
-You may refer to using `\@ref(eq:binom)`, like see Equation \@ref(eq:binom).
+2001 
 
-
-## Theorems and proofs
-
-Labeled theorems can be referenced in text using `\@ref(thm:tri)`, for example, check out this smart theorem \@ref(thm:tri).
-
-::: {.theorem #tri}
-For a right triangle, if $c$ denotes the *length* of the hypotenuse
-and $a$ and $b$ denote the lengths of the **other** two sides, we have
-$$a^2 + b^2 = c^2$$
-:::
-
-Read more here <https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html>.
-
-## Callout blocks
-
+## 2002
 
 The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html
+
+## 2003
+
+2003
+
+## 2004
+
+2004
+
+## 2005
+
+2005
+
+## 2006
+
+2006
+
+## 2007
+
+2007
+
+## 2008
+
+2008
+
+## 2009
+
+2009
+
+## 2010
+
+2010

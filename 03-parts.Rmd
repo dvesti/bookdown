@@ -1,4 +1,4 @@
-# Части {#parts}
+# Молодость. Самостоятельность {#parts}
 
 You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
 
@@ -8,5 +8,54 @@ Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
 
 Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
 
+## 1979. Продолжение
 
+1979
 
+## 1980
+
+1980
+
+## 1981
+
+1981
+
+## 1982
+
+1982
+
+## 1983
+
+1983
+
+## 1984
+
+1984
+
+## 1985
+
+1985
+
+## 1986
+
+1986
+
+## 1987
+
+1987
+
+## 1988
+
+1988
+
+## 1989
+
+1989
+
+## 1990
+
+1990
+
+## 1991. Начало
+
+1991
