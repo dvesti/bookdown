@@ -11,7 +11,7 @@ bibliography: [book.bib, packages.bib]
 description: |
   Воспоминания о прожитом пишет Волька Ибн Женька
 link-citations: yes
-github-repo: https://github.com/dvesti/bookdown
+github-repo: dvesti/bookdown
 mainfont: Georgia
 monofont: "Courier New"
 monofontoptions: "Scale=0.7"
