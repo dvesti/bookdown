@@ -2,9 +2,15 @@ book_filename: "bookdown"
 language:
   ui:
     chapter_name: "Глава "
-#rmd_files: [
-#  "index.Rmd",
-#  "setup.Rmd",
-#  "write.Rmd"]
+rmd_files: [
+  "index.Rmd",
+  "01-detstvo.Rmd",
+  "02-student.Rmd",
+  "03-samost.Rmd",
+  "04-zrelost.Rmd",
+  "05-xxi.Rmd",
+  "06-ded.Rmd",
+  "07-raznoje.Rmd",
+  "08-epilog.Rmd"]
 delete_merged_file: true
 output_dir: "docs"
